@@ -1,2 +1,2 @@
 # ImageProcessing
-Image Processing projects With OpenCV Python 
+Image Processing projects With OpenCV Python.
